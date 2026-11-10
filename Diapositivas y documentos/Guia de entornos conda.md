@@ -35,7 +35,7 @@ Recuerda usar el mismo nombre que en el paso anterior.
 Ahora, con el entorno activo, instala las herramientas del curso:
 
 ```
-pip install numpy pandas seaborn scikit-learn matplotlib -y
+pip install numpy pandas seaborn scikit-learn matplotlib
 
 ```
 
